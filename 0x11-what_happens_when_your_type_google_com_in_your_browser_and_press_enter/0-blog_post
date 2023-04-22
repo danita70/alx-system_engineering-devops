@@ -1,0 +1,15 @@
+#!/bin/bash
+
+What happens when you type google.com in your browser and press Enter
+
+My web browser sends a request to a DNS server to look up the IP address associated with the domain name google.com
+
+Once the IP address is obtained, browser sends a request to the web server associated with that IP address, asking for the webpage to be loaded.The web server responds with the webpage HTML, CSS, and JavaScript files.
+
+my browser reads the HTML file and renders the webpage on your computer screen.
+
+The webpage may also include additional requests for images, videos, or other resources, which your browser will fetch from the server and render as part of the webpage.
+
+Once the webpage is fully loaded, I can interact with it using my mouse or keyboard.
+
+
